@@ -64,5 +64,5 @@
     "type": "git",
     "url": "git+https://github.com/giantss/cordova-plugin-ImagePicker.git"
   },
-  "version": "1.2.2"
+  "version": "1.2.3"
 }

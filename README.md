@@ -154,6 +154,8 @@ ionic 中使用本插件，需要声明： `declare let ImagePicker:any`
 - [GuoZhiQiang/Luban_iOS](https://github.com/GuoZhiQiang/Luban_iOS) (iOS)
 
 ## 更新说明
+
+### v1.2.3 改 bar 顏色
 ### v1.2.2
 - (ios)改进：ios 13 选多张图会崩溃等问题
 
