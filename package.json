@@ -1,6 +1,6 @@
 {
   "_from": "git+https://github.com/giantss/cordova-plugin-ImagePicker.git",
-  "_id": "cordova-plugin-imagepicker@1.2.5",
+  "_id": "cordova-plugin-imagepicker@1.2.6",
   "_inBundle": false,
   "_location": "/cordova-plugin-imagepicker",
   "_phantomChildren": {},
@@ -64,5 +64,5 @@
     "type": "git",
     "url": "git+https://github.com/giantss/cordova-plugin-ImagePicker.git"
   },
-  "version": "1.2.5"
+  "version": "1.2.6"
 }

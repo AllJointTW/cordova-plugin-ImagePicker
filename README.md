@@ -155,6 +155,8 @@ ionic 中使用本插件，需要声明： `declare let ImagePicker:any`
 
 ## 更新说明
 
+### v1.2.6 修正 Android 缺少繁中語系問題
+
 ### v1.2.5 修正相機閃退問題
 ### v1.2.3 改 bar 顏色
 
